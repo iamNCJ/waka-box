@@ -1,4 +1,4 @@
-name: Update gist with WakaTime stats automatically
+name: Update gist with WakaTime stats
 on:
   push:
     branches: master
